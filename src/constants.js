@@ -4,7 +4,7 @@ export const dialogueData = {
     pc: `This is my PC. In my PC I like to program cool and amazing 
     thing in my free time and I am also a Cyber Security enthusist too!
     You can see my github information by clicking this link: <a href="https://github.com/richard-pius" target="_blank">Github Link</a>`,
-    "cs-degree":  `This is the place where I am going to hang my BCA(Honours) degree and I am currently in second year of
+    "cs-degree":  `This is the place where I am going to hang my BCA(Honours) degree and I am currently doing second year of
     BCA(Honours) program.`,
     "sofa-table": `That's my sofa. I like to relax here and watch Youtube videos!`,
     tv: `That's my TV.`,
